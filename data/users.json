@@ -19,6 +19,19 @@
     "Admin",
     "PIM",
     "Leave",
-    "Time"
+    "Time",
+    "Directory"
+  ],
+
+  "directoryEmployees": [
+    {
+      "employeeName": "Manda"
+    }
+  ],
+
+  "invalidDirectoryEmployees": [
+    {
+      "employeeName": "EmpleadoInexistente123"
+    }
   ]
 }
